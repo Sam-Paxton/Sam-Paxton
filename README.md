@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-paxton&label=Profile%20views&color=0e75b6&style=flat" alt="sam-paxton" /> </p>
 
-- 🌱 I’m currently learning **C#, React Native**
+- 🌱 I’m currently learning **AWS Cloud Computing, React JS, NodeJS, Angular**
 
 - 📫 How to reach me **samw.paxton@gmail.com**
 
